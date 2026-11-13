@@ -1,0 +1,9 @@
+Transfer_Mode,P100_Data_Fraction_pct,P100_Samples_Used,Overall_MAPE_pct,Compute_Bound_MAPE_pct,Memory_Bound_MAPE_pct
+Zero-Shot (0% P100 Data),0.0,0,31.14,30.52,31.77
+Warm-Start Fine-Tuned (1% P100 Data),1.0,16,21.41,21.1,21.72
+Warm-Start Fine-Tuned (2% P100 Data),2.0,32,15.6,17.03,14.17
+Warm-Start Fine-Tuned (5% P100 Data),5.0,80,13.81,15.16,12.45
+Warm-Start Fine-Tuned (10% P100 Data),10.0,160,10.86,10.97,10.76
+Warm-Start Fine-Tuned (25% P100 Data),25.0,400,9.27,9.65,8.9
+Warm-Start Fine-Tuned (50% P100 Data),50.0,800,9.07,9.16,8.98
+Warm-Start Fine-Tuned (100% P100 Data),100.0,1600,8.8,8.82,8.79

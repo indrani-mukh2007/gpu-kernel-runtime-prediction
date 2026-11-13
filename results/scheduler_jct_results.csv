@@ -1,0 +1,6 @@
+Policy,Mean_JCT_us,Median_JCT_us,P95_JCT_us,JCT_Reduction_vs_FIFO_pct,JCT_Reduction_vs_Roofline_pct,Oracle_Gain_Captured_pct
+FIFO (Arrival Order),2389.19,2375.44,3476.54,0.0,-0.36,0.0
+Roofline-Guided SJF,2380.7,2350.11,3445.45,0.36,0.0,1.8
+Global-Model SJF,2239.01,2227.58,3235.88,6.29,5.95,31.93
+Class-Specific-Model SJF,2102.89,2095.98,3081.71,11.98,11.67,60.88
+Oracle SJF (True Runtime),1918.9,1908.51,2768.3,19.68,19.4,100.0

@@ -1,0 +1,4 @@
+Model,Overall_MAPE_pct,Compute_Bound_MAPE_pct,Memory_Bound_MAPE_pct
+Class-Specific XGBoost/GBDT,8.94,8.71,9.16
+Global XGBoost/GBDT,14.05,12.8,15.3
+Analytical Roofline Baseline,26.95,20.86,33.04
